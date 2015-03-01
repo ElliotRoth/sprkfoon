@@ -1,0 +1,2 @@
+<input type="button"    value=" Product design "    onclick="document.form.action='http://sprkfoon.me/product_design'; document.form.submit();">
+<input type="button"    value=" Web development "  onclick="document.form.action='http://sprkfoon.me/web_dev'; document.form.submit();">
