@@ -1,2 +1,21 @@
-<input type="button"    value=" Product design "    onclick="document.form.action='http://sprkfoon.me/product_design'; document.form.submit();">
-<input type="button"    value=" Web development "  onclick="document.form.action='http://sprkfoon.me/web_dev'; document.form.submit();">
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Sprk+Foon</title>
+			<html lang="en">
+			<meta charset="utf-8" />
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<link rel="stylesheet" type="text/css" href="homepage.css" />
+	</head>
+	
+	<body>
+
+		<h1>Hello World</h1>
+		<p>This is description</p>
+		<div>
+			<a href="https://sprkfoon.typeform.com/to/ir6ziM" class="push_button"> Product design </a>
+			<a href="https://sprkfoon.typeform.com/to/AUGjwK" class="push_button"> Web development </a>
+			<a href="https://sprkfoon.typeform.com/to/HaYBze" class="push_button"> Lessons+Tutoring </a>
+		</div>
+	</body>
+</html>
